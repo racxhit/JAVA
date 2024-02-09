@@ -4,7 +4,7 @@ Implement Autoboxing and unboxing in java and analyze the result.
 
 class P3 
 {
-    public static void main(String args[]) 
+    public static void main(String[] args) 
     {
         // Autoboxing
         int i = 10;  
