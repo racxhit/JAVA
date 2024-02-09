@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 class P4
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         double p,r,n,a;
         
