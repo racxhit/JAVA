@@ -14,7 +14,7 @@ For an incorrect option, an appropriate error message should be displayed.
 
 import java.util.Scanner;
 
-class P2
+class P4
 {
     public static void main(String args[])
     {
