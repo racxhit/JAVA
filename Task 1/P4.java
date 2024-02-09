@@ -12,7 +12,7 @@ Calculate and output the maturity amount (a) receivable using the formula a = p 
 For an incorrect option, an appropriate error message should be displayed.
 */
 
-import java.util.Scanner;
+import java.util.*;
 
 class P4
 {
