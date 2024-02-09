@@ -1,6 +1,7 @@
 /*
-Implement a student class to read and display the following information using Scanner class( import java.util package)
-Attributes : name,roll_no,department,University,marks in 5 subjects.Calculate the % of marks of a student and display all the information along with marks.
+Implement a student class to read and display the following information using Scanner class(import java.util package)
+Attributes: name,roll_no,department,university,marks in 5 subjects.
+Calculate the % of marks of a student and display all the information along with marks.
 */
 
 import java.util.*;
