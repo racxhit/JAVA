@@ -7,9 +7,9 @@ Calculate the % of marks of a student and display all the information along with
 import java.util.*;
 class P2
 {
-	public static void main(String []args)
+	public static void main(String[] args)
 	{
-		double m[] = new double[5];
+		double[] m = new double[5];
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Input Full Name: ");
