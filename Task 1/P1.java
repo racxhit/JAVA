@@ -25,4 +25,5 @@ class P1
             System.out.println("Semester: " + args[4]);
         }
     }
+    return 0;
 }
