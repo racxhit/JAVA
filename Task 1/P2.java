@@ -38,7 +38,7 @@ class P2
 		
 		double p = sum / 5.0;
 		
-		System.out.println("\nName: " + n + "\n\nRoll No.: " + n + "\n\nDepartment: " + dn + "\n\nUniversity: " + un + "\n");
+		System.out.println("\nName: " + n + "\n\nRoll No.: " + rn + "\n\nDepartment: " + dn + "\n\nUniversity: " + un + "\n");
 		
 		for(int i = 0; i < 5; i++)
 		{
