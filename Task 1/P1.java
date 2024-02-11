@@ -19,10 +19,10 @@ class P1
         }
         else
         {
-        System.out.println("Name: " + args[0] + " " + args[1]);
-        System.out.println("Course: " + args[2]);
-        System.out.println("University Roll No: " + args[3]);
-        System.out.println("Semester: " + args[4]);
+            System.out.println("Name: " + args[0] + " " + args[1]);
+            System.out.println("Course: " + args[2]);
+            System.out.println("University Roll No: " + args[3]);
+            System.out.println("Semester: " + args[4]);
         }
     }
 }
