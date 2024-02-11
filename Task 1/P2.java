@@ -5,6 +5,7 @@ Calculate the % of marks of a student and display all the information along with
 */
 
 import java.util.*;
+
 class P2
 {
 	public static void main(String[] args)
