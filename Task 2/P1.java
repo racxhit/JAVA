@@ -1,0 +1,2 @@
+*/
+Implement a Program to find if the given numbers are Friendly pair or not Friendly Pair are two or more numbers with a common abundance.
